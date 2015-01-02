@@ -1,0 +1,471 @@
+"Village"	"Species"	"Sum"	"Tot"	"Prop"
+"1"	"1"	"Aedeomyia Aedeomyia catasticta"	4	3664	0.00109170305676856
+"2"	"1"	"Aedes Aedimorphus vexans"	0	3664	0
+"3"	"1"	"Aedes Neomelaniconion lineatopennis"	21	3664	0.00573144104803493
+"4"	"1"	"Aedes sp"	9	3664	0.00245633187772926
+"5"	"1"	"Aedes Stegomyia albopictus"	1	3664	0.00027292576419214
+"6"	"1"	"Anopheles Anopheles barbirostris"	2	3664	0.000545851528384279
+"7"	"1"	"Anopheles Anopheles nigerrimus"	4	3664	0.00109170305676856
+"8"	"1"	"Anopheles Anopheles peditaeniatus"	19	3664	0.00518558951965065
+"9"	"1"	"Anopheles Anopheles umbrosus"	0	3664	0
+"10"	"1"	"Anopheles Cellia annularis"	2	3664	0.000545851528384279
+"11"	"1"	"Anopheles Cellia subpictus"	48	3664	0.0131004366812227
+"12"	"1"	"Anopheles Cellia tessellatus"	1	3664	0.00027292576419214
+"13"	"1"	"Anopheles Cellia vagus"	86	3664	0.023471615720524
+"14"	"1"	"Anopheles Cellia vagus/ subpictus"	9	3664	0.00245633187772926
+"15"	"1"	"Anopheles Cellia varuna"	0	3664	0
+"16"	"1"	"Anopheles sp."	3	3664	0.000818777292576419
+"17"	"1"	"Armigeres Armigeres kesseli"	3	3664	0.000818777292576419
+"18"	"1"	"Armigeres Armigeres kuchingensis"	0	3664	0
+"19"	"1"	"Armigeres Armigeres subalbatus"	79	3664	0.021561135371179
+"20"	"1"	"Armigeres sp"	115	3664	0.0313864628820961
+"21"	"1"	"Coquillettidia Coquillettidia crassipes"	0	3664	0
+"22"	"1"	"Culex Culex bitaeniorhynchus"	62	3664	0.0169213973799127
+"23"	"1"	"Culex Culex epidesmus"	0	3664	0
+"24"	"1"	"Culex Culex fuscocephala"	1	3664	0.00027292576419214
+"25"	"1"	"Culex Culex gelidus"	1333	3664	0.363810043668122
+"26"	"1"	"Culex Culex hutchinsoni"	4	3664	0.00109170305676856
+"27"	"1"	"Culex Culex infula"	8	3664	0.00218340611353712
+"28"	"1"	"Culex Culex pseudovishnui"	248	3664	0.0676855895196507
+"29"	"1"	"Culex Culex quinquefasciatus"	0	3664	0
+"30"	"1"	"Culex Culex sinensis"	3	3664	0.000818777292576419
+"31"	"1"	"Culex Culex tritaeniorhynchus"	678	3664	0.185043668122271
+"32"	"1"	"Culex Culex vishnui"	352	3664	0.0960698689956332
+"33"	"1"	"Culex Culex whitmorei"	0	3664	0
+"34"	"1"	"Culex Lutzia fuscanus"	5	3664	0.0013646288209607
+"35"	"1"	"Culex sp."	317	3664	0.0865174672489083
+"36"	"1"	"Cx Cx vish grp"	201	3664	0.0548580786026201
+"37"	"1"	"Malaya genurostris"	0	3664	0
+"38"	"1"	"Mansonia annulata"	0	3664	0
+"39"	"1"	"Mansonia Mansoniodies dives"	0	3664	0
+"40"	"1"	"Mansonia Mansonioides annulifera"	0	3664	0
+"41"	"1"	"Mansonia Mansonioides indiana"	0	3664	0
+"42"	"1"	"Mansonia Mansonioides uniformis"	0	3664	0
+"43"	"1"	"Mansonia sp"	4	3664	0.00109170305676856
+"44"	"1"	"Mansonia sp unidentified"	0	3664	0
+"45"	"1"	"Mimomyia sp"	0	3664	0
+"46"	"1"	"Unidentifiable"	42	3664	0.0114628820960699
+"47"	"1"	"Uranotaenia Uranotaenia rampae"	0	3664	0
+"48"	"2"	"Aedeomyia Aedeomyia catasticta"	0	20813	0
+"49"	"2"	"Aedes Aedimorphus vexans"	53	20813	0.00254648536972085
+"50"	"2"	"Aedes Neomelaniconion lineatopennis"	231	20813	0.0110988324604814
+"51"	"2"	"Aedes sp"	4	20813	0.000192187575073272
+"52"	"2"	"Aedes Stegomyia albopictus"	2	20813	9.60937875366358e-05
+"53"	"2"	"Anopheles Anopheles barbirostris"	67	20813	0.0032191418824773
+"54"	"2"	"Anopheles Anopheles nigerrimus"	88	20813	0.00422812665161197
+"55"	"2"	"Anopheles Anopheles peditaeniatus"	139	20813	0.00667851823379619
+"56"	"2"	"Anopheles Anopheles umbrosus"	6	20813	0.000288281362609907
+"57"	"2"	"Anopheles Cellia annularis"	17	20813	0.000816797194061404
+"58"	"2"	"Anopheles Cellia subpictus"	69	20813	0.00331523567001393
+"59"	"2"	"Anopheles Cellia tessellatus"	10	20813	0.000480468937683179
+"60"	"2"	"Anopheles Cellia vagus"	582	20813	0.027963292173161
+"61"	"2"	"Anopheles Cellia vagus/ subpictus"	0	20813	0
+"62"	"2"	"Anopheles Cellia varuna"	0	20813	0
+"63"	"2"	"Anopheles sp."	40	20813	0.00192187575073272
+"64"	"2"	"Armigeres Armigeres kesseli"	14	20813	0.00067265651275645
+"65"	"2"	"Armigeres Armigeres kuchingensis"	0	20813	0
+"66"	"2"	"Armigeres Armigeres subalbatus"	59	20813	0.00283476673233075
+"67"	"2"	"Armigeres sp"	7	20813	0.000336328256378225
+"68"	"2"	"Coquillettidia Coquillettidia crassipes"	0	20813	0
+"69"	"2"	"Culex Culex bitaeniorhynchus"	172	20813	0.00826406572815067
+"70"	"2"	"Culex Culex epidesmus"	0	20813	0
+"71"	"2"	"Culex Culex fuscocephala"	1	20813	4.80468937683179e-05
+"72"	"2"	"Culex Culex gelidus"	6814	20813	0.327391534137318
+"73"	"2"	"Culex Culex hutchinsoni"	3	20813	0.000144140681304954
+"74"	"2"	"Culex Culex infula"	103	20813	0.00494883005813674
+"75"	"2"	"Culex Culex pseudovishnui"	3111	20813	0.149473886513237
+"76"	"2"	"Culex Culex quinquefasciatus"	23	20813	0.00110507855667131
+"77"	"2"	"Culex Culex sinensis"	8	20813	0.000384375150146543
+"78"	"2"	"Culex Culex tritaeniorhynchus"	4594	20813	0.220727429971652
+"79"	"2"	"Culex Culex vishnui"	1390	20813	0.0667851823379619
+"80"	"2"	"Culex Culex whitmorei"	0	20813	0
+"81"	"2"	"Culex Lutzia fuscanus"	5	20813	0.000240234468841589
+"82"	"2"	"Culex sp."	991	20813	0.047614471724403
+"83"	"2"	"Cx Cx vish grp"	853	20813	0.0409840003843751
+"84"	"2"	"Malaya genurostris"	1	20813	4.80468937683179e-05
+"85"	"2"	"Mansonia annulata"	19	20813	0.00091289098159804
+"86"	"2"	"Mansonia Mansoniodies dives"	23	20813	0.00110507855667131
+"87"	"2"	"Mansonia Mansonioides annulifera"	717	20813	0.0344496228318839
+"88"	"2"	"Mansonia Mansonioides indiana"	260	20813	0.0124921923797626
+"89"	"2"	"Mansonia Mansonioides uniformis"	123	20813	0.0059097679335031
+"90"	"2"	"Mansonia sp"	27	20813	0.00129726613174458
+"91"	"2"	"Mansonia sp unidentified"	39	20813	0.0018738288569644
+"92"	"2"	"Mimomyia sp"	6	20813	0.000288281362609907
+"93"	"2"	"Unidentifiable"	142	20813	0.00682265891510114
+"94"	"2"	"Uranotaenia Uranotaenia rampae"	0	20813	0
+"95"	"3"	"Aedeomyia Aedeomyia catasticta"	0	7747	0
+"96"	"3"	"Aedes Aedimorphus vexans"	0	7747	0
+"97"	"3"	"Aedes Neomelaniconion lineatopennis"	57	7747	0.00735768684652123
+"98"	"3"	"Aedes sp"	1	7747	0.000129082225377565
+"99"	"3"	"Aedes Stegomyia albopictus"	0	7747	0
+"100"	"3"	"Anopheles Anopheles barbirostris"	37	7747	0.00477604233896992
+"101"	"3"	"Anopheles Anopheles nigerrimus"	214	7747	0.027623596230799
+"102"	"3"	"Anopheles Anopheles peditaeniatus"	738	7747	0.0952626823286433
+"103"	"3"	"Anopheles Anopheles umbrosus"	0	7747	0
+"104"	"3"	"Anopheles Cellia annularis"	1	7747	0.000129082225377565
+"105"	"3"	"Anopheles Cellia subpictus"	14	7747	0.00180715115528592
+"106"	"3"	"Anopheles Cellia tessellatus"	0	7747	0
+"107"	"3"	"Anopheles Cellia vagus"	150	7747	0.0193623338066348
+"108"	"3"	"Anopheles Cellia vagus/ subpictus"	0	7747	0
+"109"	"3"	"Anopheles Cellia varuna"	66	7747	0.00851942687491932
+"110"	"3"	"Anopheles sp."	304	7747	0.0392409965147799
+"111"	"3"	"Armigeres Armigeres kesseli"	3	7747	0.000387246676132697
+"112"	"3"	"Armigeres Armigeres kuchingensis"	0	7747	0
+"113"	"3"	"Armigeres Armigeres subalbatus"	7	7747	0.000903575577642959
+"114"	"3"	"Armigeres sp"	4	7747	0.000516328901510262
+"115"	"3"	"Coquillettidia Coquillettidia crassipes"	1	7747	0.000129082225377565
+"116"	"3"	"Culex Culex bitaeniorhynchus"	31	7747	0.00400154898670453
+"117"	"3"	"Culex Culex epidesmus"	17	7747	0.00219439783141861
+"118"	"3"	"Culex Culex fuscocephala"	10	7747	0.00129082225377566
+"119"	"3"	"Culex Culex gelidus"	324	7747	0.0418226410223312
+"120"	"3"	"Culex Culex hutchinsoni"	6	7747	0.000774493352265393
+"121"	"3"	"Culex Culex infula"	241	7747	0.0311088163159933
+"122"	"3"	"Culex Culex pseudovishnui"	707	7747	0.0912611333419388
+"123"	"3"	"Culex Culex quinquefasciatus"	1	7747	0.000129082225377565
+"124"	"3"	"Culex Culex sinensis"	3	7747	0.000387246676132697
+"125"	"3"	"Culex Culex tritaeniorhynchus"	3105	7747	0.400800309797341
+"126"	"3"	"Culex Culex vishnui"	383	7747	0.0494384923196076
+"127"	"3"	"Culex Culex whitmorei"	0	7747	0
+"128"	"3"	"Culex Lutzia fuscanus"	0	7747	0
+"129"	"3"	"Culex sp."	938	7747	0.121079127404156
+"130"	"3"	"Cx Cx vish grp"	280	7747	0.0361430231057183
+"131"	"3"	"Malaya genurostris"	0	7747	0
+"132"	"3"	"Mansonia annulata"	0	7747	0
+"133"	"3"	"Mansonia Mansoniodies dives"	0	7747	0
+"134"	"3"	"Mansonia Mansonioides annulifera"	2	7747	0.000258164450755131
+"135"	"3"	"Mansonia Mansonioides indiana"	10	7747	0.00129082225377566
+"136"	"3"	"Mansonia Mansonioides uniformis"	48	7747	0.00619594681812314
+"137"	"3"	"Mansonia sp"	0	7747	0
+"138"	"3"	"Mansonia sp unidentified"	0	7747	0
+"139"	"3"	"Mimomyia sp"	0	7747	0
+"140"	"3"	"Unidentifiable"	44	7747	0.00567961791661288
+"141"	"3"	"Uranotaenia Uranotaenia rampae"	0	7747	0
+"142"	"4"	"Aedeomyia Aedeomyia catasticta"	0	2339	0
+"143"	"4"	"Aedes Aedimorphus vexans"	0	2339	0
+"144"	"4"	"Aedes Neomelaniconion lineatopennis"	0	2339	0
+"145"	"4"	"Aedes sp"	2	2339	0.000855066267635742
+"146"	"4"	"Aedes Stegomyia albopictus"	1	2339	0.000427533133817871
+"147"	"4"	"Anopheles Anopheles barbirostris"	25	2339	0.0106883283454468
+"148"	"4"	"Anopheles Anopheles nigerrimus"	17	2339	0.00726806327490381
+"149"	"4"	"Anopheles Anopheles peditaeniatus"	70	2339	0.029927319367251
+"150"	"4"	"Anopheles Anopheles umbrosus"	0	2339	0
+"151"	"4"	"Anopheles Cellia annularis"	1	2339	0.000427533133817871
+"152"	"4"	"Anopheles Cellia subpictus"	2	2339	0.000855066267635742
+"153"	"4"	"Anopheles Cellia tessellatus"	0	2339	0
+"154"	"4"	"Anopheles Cellia vagus"	20	2339	0.00855066267635742
+"155"	"4"	"Anopheles Cellia vagus/ subpictus"	0	2339	0
+"156"	"4"	"Anopheles Cellia varuna"	9	2339	0.00384779820436084
+"157"	"4"	"Anopheles sp."	72	2339	0.0307823856348867
+"158"	"4"	"Armigeres Armigeres kesseli"	0	2339	0
+"159"	"4"	"Armigeres Armigeres kuchingensis"	0	2339	0
+"160"	"4"	"Armigeres Armigeres subalbatus"	11	2339	0.00470286447199658
+"161"	"4"	"Armigeres sp"	7	2339	0.0029927319367251
+"162"	"4"	"Coquillettidia Coquillettidia crassipes"	0	2339	0
+"163"	"4"	"Culex Culex bitaeniorhynchus"	27	2339	0.0115433946130825
+"164"	"4"	"Culex Culex epidesmus"	12	2339	0.00513039760581445
+"165"	"4"	"Culex Culex fuscocephala"	0	2339	0
+"166"	"4"	"Culex Culex gelidus"	376	2339	0.160752458315519
+"167"	"4"	"Culex Culex hutchinsoni"	1	2339	0.000427533133817871
+"168"	"4"	"Culex Culex infula"	24	2339	0.0102607952116289
+"169"	"4"	"Culex Culex pseudovishnui"	143	2339	0.0611372381359555
+"170"	"4"	"Culex Culex quinquefasciatus"	2	2339	0.000855066267635742
+"171"	"4"	"Culex Culex sinensis"	2	2339	0.000855066267635742
+"172"	"4"	"Culex Culex tritaeniorhynchus"	818	2339	0.349722103463018
+"173"	"4"	"Culex Culex vishnui"	15	2339	0.00641299700726806
+"174"	"4"	"Culex Culex whitmorei"	0	2339	0
+"175"	"4"	"Culex Lutzia fuscanus"	0	2339	0
+"176"	"4"	"Culex sp."	196	2339	0.0837964942283027
+"177"	"4"	"Cx Cx vish grp"	385	2339	0.16460025651988
+"178"	"4"	"Malaya genurostris"	0	2339	0
+"179"	"4"	"Mansonia annulata"	0	2339	0
+"180"	"4"	"Mansonia Mansoniodies dives"	0	2339	0
+"181"	"4"	"Mansonia Mansonioides annulifera"	2	2339	0.000855066267635742
+"182"	"4"	"Mansonia Mansonioides indiana"	51	2339	0.0218041898247114
+"183"	"4"	"Mansonia Mansonioides uniformis"	16	2339	0.00684053014108593
+"184"	"4"	"Mansonia sp"	2	2339	0.000855066267635742
+"185"	"4"	"Mansonia sp unidentified"	0	2339	0
+"186"	"4"	"Mimomyia sp"	2	2339	0.000855066267635742
+"187"	"4"	"Unidentifiable"	28	2339	0.0119709277469004
+"188"	"4"	"Uranotaenia Uranotaenia rampae"	0	2339	0
+"189"	"5"	"Aedeomyia Aedeomyia catasticta"	7	4975	0.0014070351758794
+"190"	"5"	"Aedes Aedimorphus vexans"	1	4975	0.000201005025125628
+"191"	"5"	"Aedes Neomelaniconion lineatopennis"	37	4975	0.00743718592964824
+"192"	"5"	"Aedes sp"	4	4975	0.000804020100502513
+"193"	"5"	"Aedes Stegomyia albopictus"	0	4975	0
+"194"	"5"	"Anopheles Anopheles barbirostris"	27	4975	0.00542713567839196
+"195"	"5"	"Anopheles Anopheles nigerrimus"	157	4975	0.0315577889447236
+"196"	"5"	"Anopheles Anopheles peditaeniatus"	459	4975	0.0922613065326633
+"197"	"5"	"Anopheles Anopheles umbrosus"	0	4975	0
+"198"	"5"	"Anopheles Cellia annularis"	43	4975	0.00864321608040201
+"199"	"5"	"Anopheles Cellia subpictus"	3	4975	0.000603015075376884
+"200"	"5"	"Anopheles Cellia tessellatus"	2	4975	0.000402010050251256
+"201"	"5"	"Anopheles Cellia vagus"	72	4975	0.0144723618090452
+"202"	"5"	"Anopheles Cellia vagus/ subpictus"	0	4975	0
+"203"	"5"	"Anopheles Cellia varuna"	0	4975	0
+"204"	"5"	"Anopheles sp."	23	4975	0.00462311557788945
+"205"	"5"	"Armigeres Armigeres kesseli"	18	4975	0.00361809045226131
+"206"	"5"	"Armigeres Armigeres kuchingensis"	1	4975	0.000201005025125628
+"207"	"5"	"Armigeres Armigeres subalbatus"	38	4975	0.00763819095477387
+"208"	"5"	"Armigeres sp"	6	4975	0.00120603015075377
+"209"	"5"	"Coquillettidia Coquillettidia crassipes"	1	4975	0.000201005025125628
+"210"	"5"	"Culex Culex bitaeniorhynchus"	23	4975	0.00462311557788945
+"211"	"5"	"Culex Culex epidesmus"	17	4975	0.00341708542713568
+"212"	"5"	"Culex Culex fuscocephala"	4	4975	0.000804020100502513
+"213"	"5"	"Culex Culex gelidus"	470	4975	0.0944723618090452
+"214"	"5"	"Culex Culex hutchinsoni"	3	4975	0.000603015075376884
+"215"	"5"	"Culex Culex infula"	55	4975	0.0110552763819095
+"216"	"5"	"Culex Culex pseudovishnui"	522	4975	0.104924623115578
+"217"	"5"	"Culex Culex quinquefasciatus"	0	4975	0
+"218"	"5"	"Culex Culex sinensis"	174	4975	0.0349748743718593
+"219"	"5"	"Culex Culex tritaeniorhynchus"	2247	4975	0.451658291457286
+"220"	"5"	"Culex Culex vishnui"	131	4975	0.0263316582914573
+"221"	"5"	"Culex Culex whitmorei"	0	4975	0
+"222"	"5"	"Culex Lutzia fuscanus"	0	4975	0
+"223"	"5"	"Culex sp."	154	4975	0.0309547738693467
+"224"	"5"	"Cx Cx vish grp"	147	4975	0.0295477386934673
+"225"	"5"	"Malaya genurostris"	0	4975	0
+"226"	"5"	"Mansonia annulata"	0	4975	0
+"227"	"5"	"Mansonia Mansoniodies dives"	0	4975	0
+"228"	"5"	"Mansonia Mansonioides annulifera"	30	4975	0.00603015075376884
+"229"	"5"	"Mansonia Mansonioides indiana"	16	4975	0.00321608040201005
+"230"	"5"	"Mansonia Mansonioides uniformis"	76	4975	0.0152763819095477
+"231"	"5"	"Mansonia sp"	2	4975	0.000402010050251256
+"232"	"5"	"Mansonia sp unidentified"	0	4975	0
+"233"	"5"	"Mimomyia sp"	0	4975	0
+"234"	"5"	"Unidentifiable"	5	4975	0.00100502512562814
+"235"	"5"	"Uranotaenia Uranotaenia rampae"	0	4975	0
+"236"	"6"	"Aedeomyia Aedeomyia catasticta"	1	9227	0.000108377587514902
+"237"	"6"	"Aedes Aedimorphus vexans"	0	9227	0
+"238"	"6"	"Aedes Neomelaniconion lineatopennis"	60	9227	0.00650265525089411
+"239"	"6"	"Aedes sp"	5	9227	0.00054188793757451
+"240"	"6"	"Aedes Stegomyia albopictus"	1	9227	0.000108377587514902
+"241"	"6"	"Anopheles Anopheles barbirostris"	1	9227	0.000108377587514902
+"242"	"6"	"Anopheles Anopheles nigerrimus"	104	9227	0.0112712691015498
+"243"	"6"	"Anopheles Anopheles peditaeniatus"	751	9227	0.0813915682236913
+"244"	"6"	"Anopheles Anopheles umbrosus"	0	9227	0
+"245"	"6"	"Anopheles Cellia annularis"	7	9227	0.000758643112604313
+"246"	"6"	"Anopheles Cellia subpictus"	1	9227	0.000108377587514902
+"247"	"6"	"Anopheles Cellia tessellatus"	7	9227	0.000758643112604313
+"248"	"6"	"Anopheles Cellia vagus"	11	9227	0.00119215346266392
+"249"	"6"	"Anopheles Cellia vagus/ subpictus"	0	9227	0
+"250"	"6"	"Anopheles Cellia varuna"	0	9227	0
+"251"	"6"	"Anopheles sp."	5	9227	0.00054188793757451
+"252"	"6"	"Armigeres Armigeres kesseli"	6	9227	0.000650265525089412
+"253"	"6"	"Armigeres Armigeres kuchingensis"	0	9227	0
+"254"	"6"	"Armigeres Armigeres subalbatus"	6	9227	0.000650265525089412
+"255"	"6"	"Armigeres sp"	0	9227	0
+"256"	"6"	"Coquillettidia Coquillettidia crassipes"	9	9227	0.000975398287634117
+"257"	"6"	"Culex Culex bitaeniorhynchus"	6	9227	0.000650265525089412
+"258"	"6"	"Culex Culex epidesmus"	4	9227	0.000433510350059608
+"259"	"6"	"Culex Culex fuscocephala"	2	9227	0.000216755175029804
+"260"	"6"	"Culex Culex gelidus"	703	9227	0.076189444022976
+"261"	"6"	"Culex Culex hutchinsoni"	5	9227	0.00054188793757451
+"262"	"6"	"Culex Culex infula"	7	9227	0.000758643112604313
+"263"	"6"	"Culex Culex pseudovishnui"	300	9227	0.0325132762544706
+"264"	"6"	"Culex Culex quinquefasciatus"	1	9227	0.000108377587514902
+"265"	"6"	"Culex Culex sinensis"	8	9227	0.000867020700119215
+"266"	"6"	"Culex Culex tritaeniorhynchus"	6359	9227	0.689173079007261
+"267"	"6"	"Culex Culex vishnui"	89	9227	0.00964560528882627
+"268"	"6"	"Culex Culex whitmorei"	1	9227	0.000108377587514902
+"269"	"6"	"Culex Lutzia fuscanus"	0	9227	0
+"270"	"6"	"Culex sp."	119	9227	0.0128969329142733
+"271"	"6"	"Cx Cx vish grp"	225	9227	0.0243849571908529
+"272"	"6"	"Malaya genurostris"	0	9227	0
+"273"	"6"	"Mansonia annulata"	1	9227	0.000108377587514902
+"274"	"6"	"Mansonia Mansoniodies dives"	0	9227	0
+"275"	"6"	"Mansonia Mansonioides annulifera"	38	9227	0.00411834832556627
+"276"	"6"	"Mansonia Mansonioides indiana"	70	9227	0.00758643112604313
+"277"	"6"	"Mansonia Mansonioides uniformis"	297	9227	0.0321881434919259
+"278"	"6"	"Mansonia sp"	0	9227	0
+"279"	"6"	"Mansonia sp unidentified"	1	9227	0.000108377587514902
+"280"	"6"	"Mimomyia sp"	0	9227	0
+"281"	"6"	"Unidentifiable"	15	9227	0.00162566381272353
+"282"	"6"	"Uranotaenia Uranotaenia rampae"	1	9227	0.000108377587514902
+"283"	"7"	"Aedeomyia Aedeomyia catasticta"	45	31349	0.0014354524865227
+"284"	"7"	"Aedes Aedimorphus vexans"	0	31349	0
+"285"	"7"	"Aedes Neomelaniconion lineatopennis"	676	31349	0.0215636862419854
+"286"	"7"	"Aedes sp"	0	31349	0
+"287"	"7"	"Aedes Stegomyia albopictus"	1	31349	3.18989441449488e-05
+"288"	"7"	"Anopheles Anopheles barbirostris"	186	31349	0.00593320361096048
+"289"	"7"	"Anopheles Anopheles nigerrimus"	1000	31349	0.0318989441449488
+"290"	"7"	"Anopheles Anopheles peditaeniatus"	5342	31349	0.170404159622317
+"291"	"7"	"Anopheles Anopheles umbrosus"	0	31349	0
+"292"	"7"	"Anopheles Cellia annularis"	126	31349	0.00401926696226355
+"293"	"7"	"Anopheles Cellia subpictus"	7	31349	0.000223292609014642
+"294"	"7"	"Anopheles Cellia tessellatus"	5	31349	0.000159494720724744
+"295"	"7"	"Anopheles Cellia vagus"	119	31349	0.00379597435324891
+"296"	"7"	"Anopheles Cellia vagus/ subpictus"	0	31349	0
+"297"	"7"	"Anopheles Cellia varuna"	4	31349	0.000127595776579795
+"298"	"7"	"Anopheles sp."	438	31349	0.0139717375354876
+"299"	"7"	"Armigeres Armigeres kesseli"	16	31349	0.000510383106319181
+"300"	"7"	"Armigeres Armigeres kuchingensis"	2	31349	6.37978882898976e-05
+"301"	"7"	"Armigeres Armigeres subalbatus"	37	31349	0.00118026093336311
+"302"	"7"	"Armigeres sp"	8	31349	0.00025519155315959
+"303"	"7"	"Coquillettidia Coquillettidia crassipes"	7	31349	0.000223292609014642
+"304"	"7"	"Culex Culex bitaeniorhynchus"	16	31349	0.000510383106319181
+"305"	"7"	"Culex Culex epidesmus"	52	31349	0.00165874509553734
+"306"	"7"	"Culex Culex fuscocephala"	45	31349	0.0014354524865227
+"307"	"7"	"Culex Culex gelidus"	1517	31349	0.0483906982678873
+"308"	"7"	"Culex Culex hutchinsoni"	15	31349	0.000478484162174232
+"309"	"7"	"Culex Culex infula"	50	31349	0.00159494720724744
+"310"	"7"	"Culex Culex pseudovishnui"	1586	31349	0.0505917254138888
+"311"	"7"	"Culex Culex quinquefasciatus"	3	31349	9.56968324348464e-05
+"312"	"7"	"Culex Culex sinensis"	33	31349	0.00105266515678331
+"313"	"7"	"Culex Culex tritaeniorhynchus"	18387	31349	0.586525885993174
+"314"	"7"	"Culex Culex vishnui"	452	31349	0.0144183227535169
+"315"	"7"	"Culex Culex whitmorei"	0	31349	0
+"316"	"7"	"Culex Lutzia fuscanus"	0	31349	0
+"317"	"7"	"Culex sp."	321	31349	0.0102395610705286
+"318"	"7"	"Cx Cx vish grp"	606	31349	0.019330760151839
+"319"	"7"	"Malaya genurostris"	0	31349	0
+"320"	"7"	"Mansonia annulata"	0	31349	0
+"321"	"7"	"Mansonia Mansoniodies dives"	0	31349	0
+"322"	"7"	"Mansonia Mansonioides annulifera"	22	31349	0.000701776771188874
+"323"	"7"	"Mansonia Mansonioides indiana"	27	31349	0.000861271491913618
+"324"	"7"	"Mansonia Mansonioides uniformis"	72	31349	0.00229672397843631
+"325"	"7"	"Mansonia sp"	0	31349	0
+"326"	"7"	"Mansonia sp unidentified"	5	31349	0.000159494720724744
+"327"	"7"	"Mimomyia sp"	0	31349	0
+"328"	"7"	"Unidentifiable"	120	31349	0.00382787329739386
+"329"	"7"	"Uranotaenia Uranotaenia rampae"	1	31349	3.18989441449488e-05
+"330"	"8"	"Aedeomyia Aedeomyia catasticta"	3	12998	0.000230804739190645
+"331"	"8"	"Aedes Aedimorphus vexans"	0	12998	0
+"332"	"8"	"Aedes Neomelaniconion lineatopennis"	3	12998	0.000230804739190645
+"333"	"8"	"Aedes sp"	0	12998	0
+"334"	"8"	"Aedes Stegomyia albopictus"	0	12998	0
+"335"	"8"	"Anopheles Anopheles barbirostris"	10	12998	0.000769349130635482
+"336"	"8"	"Anopheles Anopheles nigerrimus"	91	12998	0.00700107708878289
+"337"	"8"	"Anopheles Anopheles peditaeniatus"	2076	12998	0.159716879519926
+"338"	"8"	"Anopheles Anopheles umbrosus"	0	12998	0
+"339"	"8"	"Anopheles Cellia annularis"	3	12998	0.000230804739190645
+"340"	"8"	"Anopheles Cellia subpictus"	8	12998	0.000615479304508386
+"341"	"8"	"Anopheles Cellia tessellatus"	1	12998	7.69349130635482e-05
+"342"	"8"	"Anopheles Cellia vagus"	54	12998	0.0041544853054316
+"343"	"8"	"Anopheles Cellia vagus/ subpictus"	0	12998	0
+"344"	"8"	"Anopheles Cellia varuna"	0	12998	0
+"345"	"8"	"Anopheles sp."	26	12998	0.00200030773965225
+"346"	"8"	"Armigeres Armigeres kesseli"	6	12998	0.000461609478381289
+"347"	"8"	"Armigeres Armigeres kuchingensis"	0	12998	0
+"348"	"8"	"Armigeres Armigeres subalbatus"	11	12998	0.000846284043699031
+"349"	"8"	"Armigeres sp"	0	12998	0
+"350"	"8"	"Coquillettidia Coquillettidia crassipes"	0	12998	0
+"351"	"8"	"Culex Culex bitaeniorhynchus"	0	12998	0
+"352"	"8"	"Culex Culex epidesmus"	1	12998	7.69349130635482e-05
+"353"	"8"	"Culex Culex fuscocephala"	14	12998	0.00107708878288968
+"354"	"8"	"Culex Culex gelidus"	432	12998	0.0332358824434528
+"355"	"8"	"Culex Culex hutchinsoni"	1	12998	7.69349130635482e-05
+"356"	"8"	"Culex Culex infula"	15	12998	0.00115402369595322
+"357"	"8"	"Culex Culex pseudovishnui"	254	12998	0.0195414679181413
+"358"	"8"	"Culex Culex quinquefasciatus"	10	12998	0.000769349130635482
+"359"	"8"	"Culex Culex sinensis"	2	12998	0.000153869826127096
+"360"	"8"	"Culex Culex tritaeniorhynchus"	9522	12998	0.732574242191106
+"361"	"8"	"Culex Culex vishnui"	27	12998	0.0020772426527158
+"362"	"8"	"Culex Culex whitmorei"	0	12998	0
+"363"	"8"	"Culex Lutzia fuscanus"	0	12998	0
+"364"	"8"	"Culex sp."	243	12998	0.0186951838744422
+"365"	"8"	"Cx Cx vish grp"	156	12998	0.0120018464379135
+"366"	"8"	"Malaya genurostris"	0	12998	0
+"367"	"8"	"Mansonia annulata"	1	12998	7.69349130635482e-05
+"368"	"8"	"Mansonia Mansoniodies dives"	0	12998	0
+"369"	"8"	"Mansonia Mansonioides annulifera"	4	12998	0.000307739652254193
+"370"	"8"	"Mansonia Mansonioides indiana"	3	12998	0.000230804739190645
+"371"	"8"	"Mansonia Mansonioides uniformis"	20	12998	0.00153869826127096
+"372"	"8"	"Mansonia sp"	0	12998	0
+"373"	"8"	"Mansonia sp unidentified"	1	12998	7.69349130635482e-05
+"374"	"8"	"Mimomyia sp"	0	12998	0
+"375"	"8"	"Unidentifiable"	0	12998	0
+"376"	"8"	"Uranotaenia Uranotaenia rampae"	0	12998	0
+"377"	"9"	"Aedeomyia Aedeomyia catasticta"	0	3792	0
+"378"	"9"	"Aedes Aedimorphus vexans"	0	3792	0
+"379"	"9"	"Aedes Neomelaniconion lineatopennis"	96	3792	0.0253164556962025
+"380"	"9"	"Aedes sp"	0	3792	0
+"381"	"9"	"Aedes Stegomyia albopictus"	0	3792	0
+"382"	"9"	"Anopheles Anopheles barbirostris"	34	3792	0.0089662447257384
+"383"	"9"	"Anopheles Anopheles nigerrimus"	16	3792	0.00421940928270042
+"384"	"9"	"Anopheles Anopheles peditaeniatus"	627	3792	0.165348101265823
+"385"	"9"	"Anopheles Anopheles umbrosus"	0	3792	0
+"386"	"9"	"Anopheles Cellia annularis"	12	3792	0.00316455696202532
+"387"	"9"	"Anopheles Cellia subpictus"	0	3792	0
+"388"	"9"	"Anopheles Cellia tessellatus"	0	3792	0
+"389"	"9"	"Anopheles Cellia vagus"	5	3792	0.00131856540084388
+"390"	"9"	"Anopheles Cellia vagus/ subpictus"	0	3792	0
+"391"	"9"	"Anopheles Cellia varuna"	77	3792	0.0203059071729958
+"392"	"9"	"Anopheles sp."	7	3792	0.00184599156118143
+"393"	"9"	"Armigeres Armigeres kesseli"	0	3792	0
+"394"	"9"	"Armigeres Armigeres kuchingensis"	0	3792	0
+"395"	"9"	"Armigeres Armigeres subalbatus"	2	3792	0.000527426160337553
+"396"	"9"	"Armigeres sp"	1	3792	0.000263713080168776
+"397"	"9"	"Coquillettidia Coquillettidia crassipes"	1	3792	0.000263713080168776
+"398"	"9"	"Culex Culex bitaeniorhynchus"	4	3792	0.00105485232067511
+"399"	"9"	"Culex Culex epidesmus"	1	3792	0.000263713080168776
+"400"	"9"	"Culex Culex fuscocephala"	8	3792	0.00210970464135021
+"401"	"9"	"Culex Culex gelidus"	505	3792	0.133175105485232
+"402"	"9"	"Culex Culex hutchinsoni"	3	3792	0.000791139240506329
+"403"	"9"	"Culex Culex infula"	7	3792	0.00184599156118143
+"404"	"9"	"Culex Culex pseudovishnui"	446	3792	0.117616033755274
+"405"	"9"	"Culex Culex quinquefasciatus"	0	3792	0
+"406"	"9"	"Culex Culex sinensis"	0	3792	0
+"407"	"9"	"Culex Culex tritaeniorhynchus"	1758	3792	0.463607594936709
+"408"	"9"	"Culex Culex vishnui"	13	3792	0.00342827004219409
+"409"	"9"	"Culex Culex whitmorei"	0	3792	0
+"410"	"9"	"Culex Lutzia fuscanus"	1	3792	0.000263713080168776
+"411"	"9"	"Culex sp."	10	3792	0.00263713080168776
+"412"	"9"	"Cx Cx vish grp"	68	3792	0.0179324894514768
+"413"	"9"	"Malaya genurostris"	0	3792	0
+"414"	"9"	"Mansonia annulata"	0	3792	0
+"415"	"9"	"Mansonia Mansoniodies dives"	0	3792	0
+"416"	"9"	"Mansonia Mansonioides annulifera"	19	3792	0.00501054852320675
+"417"	"9"	"Mansonia Mansonioides indiana"	12	3792	0.00316455696202532
+"418"	"9"	"Mansonia Mansonioides uniformis"	55	3792	0.0145042194092827
+"419"	"9"	"Mansonia sp"	1	3792	0.000263713080168776
+"420"	"9"	"Mansonia sp unidentified"	0	3792	0
+"421"	"9"	"Mimomyia sp"	2	3792	0.000527426160337553
+"422"	"9"	"Unidentifiable"	0	3792	0
+"423"	"9"	"Uranotaenia Uranotaenia rampae"	1	3792	0.000263713080168776
+"424"	"10"	"Aedeomyia Aedeomyia catasticta"	143	1778	0.0804274465691789
+"425"	"10"	"Aedes Aedimorphus vexans"	0	1778	0
+"426"	"10"	"Aedes Neomelaniconion lineatopennis"	2	1778	0.00112485939257593
+"427"	"10"	"Aedes sp"	2	1778	0.00112485939257593
+"428"	"10"	"Aedes Stegomyia albopictus"	0	1778	0
+"429"	"10"	"Anopheles Anopheles barbirostris"	27	1778	0.015185601799775
+"430"	"10"	"Anopheles Anopheles nigerrimus"	62	1778	0.0348706411698538
+"431"	"10"	"Anopheles Anopheles peditaeniatus"	218	1778	0.122609673790776
+"432"	"10"	"Anopheles Anopheles umbrosus"	0	1778	0
+"433"	"10"	"Anopheles Cellia annularis"	2	1778	0.00112485939257593
+"434"	"10"	"Anopheles Cellia subpictus"	1	1778	0.000562429696287964
+"435"	"10"	"Anopheles Cellia tessellatus"	0	1778	0
+"436"	"10"	"Anopheles Cellia vagus"	13	1778	0.00731158605174353
+"437"	"10"	"Anopheles Cellia vagus/ subpictus"	0	1778	0
+"438"	"10"	"Anopheles Cellia varuna"	12	1778	0.00674915635545557
+"439"	"10"	"Anopheles sp."	2	1778	0.00112485939257593
+"440"	"10"	"Armigeres Armigeres kesseli"	9	1778	0.00506186726659168
+"441"	"10"	"Armigeres Armigeres kuchingensis"	1	1778	0.000562429696287964
+"442"	"10"	"Armigeres Armigeres subalbatus"	10	1778	0.00562429696287964
+"443"	"10"	"Armigeres sp"	7	1778	0.00393700787401575
+"444"	"10"	"Coquillettidia Coquillettidia crassipes"	2	1778	0.00112485939257593
+"445"	"10"	"Culex Culex bitaeniorhynchus"	6	1778	0.00337457817772778
+"446"	"10"	"Culex Culex epidesmus"	0	1778	0
+"447"	"10"	"Culex Culex fuscocephala"	11	1778	0.0061867266591676
+"448"	"10"	"Culex Culex gelidus"	163	1778	0.0916760404949381
+"449"	"10"	"Culex Culex hutchinsoni"	5	1778	0.00281214848143982
+"450"	"10"	"Culex Culex infula"	0	1778	0
+"451"	"10"	"Culex Culex pseudovishnui"	245	1778	0.137795275590551
+"452"	"10"	"Culex Culex quinquefasciatus"	14	1778	0.0078740157480315
+"453"	"10"	"Culex Culex sinensis"	7	1778	0.00393700787401575
+"454"	"10"	"Culex Culex tritaeniorhynchus"	633	1778	0.356017997750281
+"455"	"10"	"Culex Culex vishnui"	8	1778	0.00449943757030371
+"456"	"10"	"Culex Culex whitmorei"	0	1778	0
+"457"	"10"	"Culex Lutzia fuscanus"	1	1778	0.000562429696287964
+"458"	"10"	"Culex sp."	25	1778	0.0140607424071991
+"459"	"10"	"Cx Cx vish grp"	46	1778	0.0258717660292463
+"460"	"10"	"Malaya genurostris"	0	1778	0
+"461"	"10"	"Mansonia annulata"	0	1778	0
+"462"	"10"	"Mansonia Mansoniodies dives"	0	1778	0
+"463"	"10"	"Mansonia Mansonioides annulifera"	64	1778	0.0359955005624297
+"464"	"10"	"Mansonia Mansonioides indiana"	13	1778	0.00731158605174353
+"465"	"10"	"Mansonia Mansonioides uniformis"	23	1778	0.0129358830146232
+"466"	"10"	"Mansonia sp"	0	1778	0
+"467"	"10"	"Mansonia sp unidentified"	0	1778	0
+"468"	"10"	"Mimomyia sp"	1	1778	0.000562429696287964
+"469"	"10"	"Unidentifiable"	0	1778	0
+"470"	"10"	"Uranotaenia Uranotaenia rampae"	0	1778	0

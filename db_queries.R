@@ -26,12 +26,12 @@ village<-query.func(,"select *
 
 # light-trap queries
 
-lt.1<-query.func(,"select Village, LT_individual_ID, Host, Females, Species_name, Spp_ID
+lt.1<-query.func(,"select Village, LT_individual_ID, Females, Species_name, Spp_ID
 											from LT_night N, LT_individual I, LT_species S, Species SP
 											where N.LT_night_ID=I.LT_night and I.LT_individual_ID=S.LT_individual 
 											and S.Species=SP.Spp_ID")
 
-lt.2<-query.func(,"select Village, LT_individual_ID, Hosts, Number,  Females, Species_name, Spp_ID
+lt.2<-query.func(,"select Village, LT_individual_ID, Hosts, Number, Females, Species_name, Spp_ID
 											from LT_night N, LT_individual I, Other_hosts O, LT_species S, Species SP
 											where N.LT_night_ID=I.LT_night and I.LT_individual_ID=O.LT_Ind_ID and I.LT_individual_ID=S.LT_individual 
 												and S.Species=SP.Spp_ID")

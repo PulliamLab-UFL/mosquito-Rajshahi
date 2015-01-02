@@ -1,0 +1,31 @@
+".id"	"Species_name"	"Total"	"All"	"Props"
+"1"	NA	"Aedes Neomelaniconion lineatopennis"	17	575	2.96
+"2"	NA	"Aedes Stegomyia albopictus"	15	575	2.61
+"3"	NA	"Anopheles Anopheles barbirostris"	1	575	0.17
+"4"	NA	"Anopheles Anopheles nigerrimus"	3	575	0.52
+"5"	NA	"Anopheles Anopheles peditaeniatus"	11	575	1.91
+"6"	NA	"Anopheles Cellia vagus"	2	575	0.35
+"7"	NA	"Anopheles sp."	1	575	0.17
+"8"	NA	"Armigeres Armigeres kesseli"	29	575	5.04
+"9"	NA	"Armigeres Armigeres kuchingensis"	1	575	0.17
+"10"	NA	"Armigeres Armigeres subalbatus"	48	575	8.35
+"11"	NA	"Armigeres sp"	1	575	0.17
+"12"	NA	"Coquillettidia Coquillettidia crassipes"	1	575	0.17
+"13"	NA	"Culex Culex bitaeniorhynchus"	25	575	4.35
+"14"	NA	"Culex Culex epidesmus"	1	575	0.17
+"15"	NA	"Culex Culex fuscocephala"	11	575	1.91
+"16"	NA	"Culex Culex gelidus"	58	575	10.09
+"17"	NA	"Culex Culex hutchinsoni"	10	575	1.74
+"18"	NA	"Culex Culex infula"	1	575	0.17
+"19"	NA	"Culex Culex pseudovishnui"	157	575	27.3
+"20"	NA	"Culex Culex sinensis"	6	575	1.04
+"21"	NA	"Culex Culex tritaeniorhynchus"	100	575	17.39
+"22"	NA	"Culex Culex vishnui"	34	575	5.91
+"23"	NA	"Culex Culex whitmorei"	1	575	0.17
+"24"	NA	"Culex sp."	11	575	1.91
+"25"	NA	"Cx Cx vish grp"	13	575	2.26
+"26"	NA	"Mansonia Mansonioides annulifera"	1	575	0.17
+"27"	NA	"Mansonia Mansonioides indiana"	1	575	0.17
+"28"	NA	"Mansonia Mansonioides uniformis"	10	575	1.74
+"29"	NA	"Mimomyia sp"	5	575	0.87
+"30"	NA	"None"	0	575	0

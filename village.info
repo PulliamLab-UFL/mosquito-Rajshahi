@@ -1,0 +1,11 @@
+"Village_ID"	"Village_name"	"Union"	"District"	"Surveyor"	"Latitude"	"Longitude"	"Date_start"	"Date_end"	"Upazila"	"No_households"
+"1"	1	"Balia Chai Para"	"Haragram"	"Rajshahi"	"JL/SC/HMA"	"24.37764"	"088.53344"	"09-01-13"	"09-04-13"	"Paba"	390
+"2"	2	"Madhukhali"	"Jeopara"	"Rajshahi"	"JL/SC/HMA"	"24.40529"	"088.88806"	"09-08-13"	"09-11-13"	"Puthia"	861
+"3"	3	"Mayamari"	"Niamatpur"	"Naogaon"	"JL/SC/HMA"	"24.87001"	"088.57648"	"09-15-13"	"09-19-13"	"Niamatpur"	13
+"4"	4	"Rasia"	"Ghorapakhia"	"Chapai Nawabganj"	"JL/SC/HMA"	"24.58639"	"088.20052"	"09-28-13"	"09-30-13"	"Shibganj"	304
+"5"	5	"Uttar Koali Para"	"Jogi Para"	"Rajshahi"	"JL/SC/HMA"	"24.60218"	"088.89960"	"10-05-13"	"10-08-13"	"Baghmara"	254
+"6"	6	"Mayamari"	"Daldali"	"Chapai Nawabganj"	"JL/SC/HMA"	"24.92311"	"088.25127"	"10-21-13"	"10-23-13"	"Bholahat"	299
+"7"	7	"Atrai"	"Ghasigram"	"Rajshahi"	"JL/SC/HMA"	"24.60158"	"088.62307"	"10-30-13"	"11-02-13"	"Mohanpur"	434
+"8"	8	"Kaligaon"	"Kaligram"	"Naogaon"	"JL/SC/HMA"	"24.70875"	"088.08796"	"11-07-13"	"11-09-13"	"Raninagar"	872
+"9"	9	"Bangram"	"Kajur"	"Naogaon"	"JL/SC/HMA"	"24.93901"	"088.71806"	"11-14-13"	"11-15-13"	"Mahadebpur"	492
+"10"	10	"Sreerampur"	"Ganeshpur"	"Naogaon"	"JL/SC/HMA"	"24.80114"	"088.74859"	"11-20-13"	"11-22-13"	"Manda"	0
