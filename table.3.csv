@@ -1,0 +1,5 @@
+"Species","Minimal adequate model","R squared","Cattle:Bird p-value","Cattle p-value","Bird p-value","AIC of minimal adequate model","AIC of null model"
+"1","Cx. tritaeniorhynchus","Number of cattle*Number of birds",22.98,0.00147911532933535,2.98101361229725e-11,0.012398785367945,476.220625754972,526.352286394962
+"2","Cx. gelidus","Number of cattle*Number of birds",17.51,0.000293475553301537,3.21349685412395e-10,0.0125593212501757,425.099991914368,464.019551336663
+"3","Cx. pseudovishnui","Number of cattle*Number of birds",11.54,0.000110141968476944,1.55252416043044e-07,0.00130257736973278,414.533407391936,439.918487248854
+"4","An. peditaeniatus","Number of cattle*Number of birds",16.66,0.00734787777808368,1.35311210070385e-08,0.0179565217508549,473.195965999083,510.275415087496

@@ -16,7 +16,7 @@ write.table(village,file="village.info",sep="\t")
 
 
 #******************************* light trap (lt) data ******************************************
-# data for numbers of domestic animals and humans in a houesholdb(hh) only available for lt 71 onwards (not from
+# data for numbers of domestic animals and humans in a houeshold (hh) only available for lt 71 onwards (not from
 # first two villages surveyed)
 
 # household host data
@@ -197,4 +197,4 @@ max.lt.per.vil<-ddply(lt.1,.(Village),summarize,max.ltid=max(LT_individual_ID))
 #7      10      204
 
 
-rm(list=ls())
+

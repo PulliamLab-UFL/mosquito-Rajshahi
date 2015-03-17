@@ -24,7 +24,7 @@ query.func<-function(db=moz,query){
 village<-query.func(,"select * 
 										from Village")
 
-# light-trap queries
+# light trap queries
 
 lt.1<-query.func(,"select Village, LT_individual_ID, Females, Species_name, Spp_ID
 											from LT_night N, LT_individual I, LT_species S, Species SP
