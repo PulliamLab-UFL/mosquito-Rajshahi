@@ -183,11 +183,11 @@ plot.or<-function(dat,species){
   plot(dat$logOR.LT.rest,1:nr,type="n",xlim=c(-6,6),main=species,yaxt="n",bty="n",cex.main=0.6, cex.axis=0.5)
   points(x=dat$logOR.LT.rest,y=1:nr,pch=20,col="blue",cex=0.5)
   abline(v=0)
-  segments(dat$CIH, 1:nr, dat$CIL,1:nr,lwd=1)
+  segments(dat$CIH, 1:nr, dat$CIL,1:nr,lwd=0.5)
   ylabels<-c(1,2,3,4,5,6,8)
   axis(2, 1:nr, ylabels,cex.axis=0.5)
-  mtext("Light trap",side=3,line=0,cex=0.2,at=4)
-  mtext("Resting",side=3,line=0,cex=0.2,at=-5)
+  mtext("Method 2",side=3,line=0,cex=0.2,at=4)
+  mtext("Method 1",side=3,line=0,cex=0.2,at=-5)
 }
 
 plot.or(dat=tritae.OR,species=expression(paste(italic("Cx. tritaeniorhynchus"))))
@@ -198,7 +198,7 @@ plot.or(a.OR6,species=expression(paste(italic("Ar. subalbatus"))))
 plot.or(v.OR6,species=expression(paste(italic("Cx. vishnui"))))
 plot.or(ak.OR6,species=expression(paste(italic("Ar. kesseli"))))
 
-mtext("Log odds ratio (light trap: resting) and 95% CI",side=1,outer=T,line=1,cex=0.4)
+mtext("Log odds ratio (method 2: method 1) and 95% CI",side=1,outer=T,line=1,cex=0.4)
 mtext("Village",side=2,outer=T,line=0,cex=0.4)
 
 dev.off()

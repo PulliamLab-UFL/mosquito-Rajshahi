@@ -22,12 +22,12 @@ tiff("Fig1.tiff", height = 2.75, width = 3, units = 'in', compression="lzw", res
 
 par(mai=c(1,1,0.5,0),mar=c(4,4,1,1),cex=0.7)
 options(scipen=10)
-plot(a[,1],a[,2],log="x",ylim=c(0,35),pch=20,cex.points=0.5,col="blue",bty="n",cex.lab=0.8,cex.axis=0.8,ylab="Number of species collected by light trap", xlab="Number of female mosquitoes collected by light trap")
-abline(v=38,col="grey",lty=3)
-abline(v=3500,col="grey",lty=2)
-legend(x=4e+3,y=10,cex=0.5,title="Number collected by:",legend=c("1 light trap","resting collection","7 light traps"),bty="n",lty=c(3,1,2),col=c("grey","grey40","grey"))
+plot(a[,1],a[,2],log="x",ylim=c(0,35),pch=20,cex.points=0.5,col="blue",bty="n",cex.lab=0.8,cex.axis=0.8,ylab="Number of species collected by method 2", xlab="Number of female mosquitoes collected by method 2")
+#abline(v=38,col="grey",lty=3)
+#abline(v=3500,col="grey",lty=2)
+#legend(x=4e+3,y=10,cex=0.5,title="Number collected by:",legend=c("1 light trap","resting collection","7 light traps"),bty="n",lty=c(3,1,2),col=c("grey","grey40","grey"))
 
-abline(v=575,col="grey40")
+#abline(v=575,col="grey40")
 lm.sp<-lm(a[,2] ~ log(a[,1] + 1))
 summary(lm.sp)
 curve(coef(lm.sp)[1] + log(x)*coef(lm.sp)[2],from=1,to=80000,add=T,col="blue")
