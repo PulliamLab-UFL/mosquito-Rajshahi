@@ -1,0 +1,16 @@
+{
+    "contents" : "library(\"plyr\")\n\nLTa<-read.table(\"all.moz\")\nLT<-LTa[!LTa$LTid %in% 1:70,]\n# remove Cx spp, Mansonia spp etc in Spp_ID \nLT2<-LT[!LT$Species %in% c(\"Aedes sp\",\"Anopheles Cellia vagus/ subpictus\",\"Anopheles sp.\",\"Armigeres sp\",\n                           \"Culex sp.\",\"Cx Cx vish grp\",\"Mansonia sp\",\"Unidentifiable\",\"Mansonia sp unidentified\",\"Mimomyia sp\")\n        & !LT$Females %in% 0,]\nLT3<-ddply(LT2,.(LTid),transform,tot=sum(Females))\n\nmax<-seq(71,196,1)\na<-matrix(rep(0,length(max)*2),ncol=2)\n\nfor (i in 1:length(max)){\n  samples<-seq(71,max[i],1)\n  dat1<-LT3[LT3$LTid %in% samples,]\n  a[i,1]<-sum(dat1$Females)\n  a[i,2]<-length(unique(dat1$Species))\n}\n\ntiff(\"Fig1.tiff\", height = 3.75, width = 4, units = 'in', compression=\"lzw\", res=400)\n\npar(mai=c(1,1,0.5,0),mar=c(4,4,1,1),cex=0.7)\noptions(scipen=10)\nplot(a[,1],a[,2],log=\"x\",ylim=c(0,35),pch=20,cex.points=0.5,col=\"blue\",bty=\"n\",cex.lab=0.8,cex.axis=0.8,ylab=\"Number of species collected by method 2\", xlab=\"Number of female mosquitoes collected by method 2\")\n#abline(v=38,col=\"grey\",lty=3)\n#abline(v=3500,col=\"grey\",lty=2)\n#legend(x=4e+3,y=10,cex=0.5,title=\"Number collected by:\",legend=c(\"1 light trap\",\"resting collection\",\"7 light traps\"),bty=\"n\",lty=c(3,1,2),col=c(\"grey\",\"grey40\",\"grey\"))\n\n#abline(v=575,col=\"grey40\")\nlm.sp<-lm(a[,2] ~ log(a[,1] + 1))\nsummary(lm.sp)\ncurve(coef(lm.sp)[1] + log(x)*coef(lm.sp)[2],from=1,to=80000,add=T,col=\"blue\")\n\ndev.off()",
+    "created" : 1446220443786.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2642657278",
+    "id" : "61B211D1",
+    "lastKnownWriteTime" : 1446220560,
+    "path" : "~/GitHub/mosquito-Rajshahi/fig1.R",
+    "project_path" : "fig1.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -18,7 +18,7 @@ for (i in 1:length(max)){
   a[i,2]<-length(unique(dat1$Species))
 }
 
-tiff("Fig1.tiff", height = 2.75, width = 3, units = 'in', compression="lzw", res=400)
+tiff("Fig1.tiff", height = 3.75, width = 4, units = 'in', compression="lzw", res=400)
 
 par(mai=c(1,1,0.5,0),mar=c(4,4,1,1),cex=0.7)
 options(scipen=10)

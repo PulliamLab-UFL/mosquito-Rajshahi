@@ -174,20 +174,21 @@ ak.OR4<-ddply(ak.OR3,.(Village),transform, SE=sqrt(1/Sumspp + 1/LTsum + 1/LTminu
 ak.OR5<-ddply(ak.OR4,.(Village),transform,CIL=logOR.LT.rest-1.96*SE,CIH=logOR.LT.rest+1.96*SE)
 ak.OR6<-ddply(ak.OR5,.(Village),transform,ORCIL=exp(CIL),ORCIH=exp(CIH))
 
-tiff("Fig2.tiff", height = 3, width = 2, units = 'in', compression="lzw", res=400)
+tiff("Fig2.tiff", height = 4, width = 2.5, units = 'in', compression="lzw", res=400)
 
 # Plotting 
-par(mai=c(1.5,1.5,1.5,2),mar=c(1.5,1.5,1.5,2),oma=c(2,1.5,0,0),mfrow=c(4,2),cex=0.5)
+par(mai=c(1.5,1.5,2,2),mar=c(1.5,1.5,2,2),oma=c(2,1.5,0,0),mfrow=c(4,2),cex=0.5)
 plot.or<-function(dat,species){
   nr<-nrow(dat)
-  plot(dat$logOR.LT.rest,1:nr,type="n",xlim=c(-6,6),main=species,yaxt="n",bty="n",cex.main=0.6, cex.axis=0.5)
+  plot(dat$logOR.LT.rest,1:nr,type="n",xlim=c(-6,6),main=species,mgp=c(3,0.3,0),yaxt="n",bty="n",cex.main=0.7, cex.axis=0.7)
   points(x=dat$logOR.LT.rest,y=1:nr,pch=20,col="blue",cex=0.5)
   abline(v=0)
   segments(dat$CIH, 1:nr, dat$CIL,1:nr,lwd=0.5)
   ylabels<-c(1,2,3,4,5,6,8)
-  axis(2, 1:nr, ylabels,cex.axis=0.5)
-  mtext("Method 2",side=3,line=0,cex=0.2,at=4)
-  mtext("Method 1",side=3,line=0,cex=0.2,at=-5)
+  axis(2, 1:nr, ylabels,cex.axis=0.7)
+  mtext("Method 2",side=3,line=0,cex=0.3,at=4)
+  mtext("Method 1",side=3,line=0,cex=0.3,at=-4)
+
 }
 
 plot.or(dat=tritae.OR,species=expression(paste(italic("Cx. tritaeniorhynchus"))))
@@ -198,7 +199,7 @@ plot.or(a.OR6,species=expression(paste(italic("Ar. subalbatus"))))
 plot.or(v.OR6,species=expression(paste(italic("Cx. vishnui"))))
 plot.or(ak.OR6,species=expression(paste(italic("Ar. kesseli"))))
 
-mtext("Log odds ratio (method 2: method 1) and 95% CI",side=1,outer=T,line=1,cex=0.4)
+mtext("Log odds ratio (method 2: method 1) and 95% CI",side=1,outer=T,line=0,cex=0.4)
 mtext("Village",side=2,outer=T,line=0,cex=0.4)
 
 dev.off()

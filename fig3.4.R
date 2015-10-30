@@ -172,10 +172,10 @@ bird.plot<-function(bird=Bird,dat,spp=expression(paste(italic("Cx. tritaeniorhyn
   plot(bird,exp(dat[,1]),type="l",log="y",bty="n",lwd=1,cex.main=0.8,cex.axis=0.6,col="#604A7B",ylim=c(1,60000),main=spp)
   lines(x=bird,y=exp(dat[,2]),lty=2,lwd=1,col="black")
   lines(x=bird,y=exp(dat[,3]),lty=2,lwd=1,col="black")
-  legend("topleft",legend=c("Predicted value","95% confidence limits"),bty="n",lty=c(1,2),col=c("#604A7B","black"),cex=0.4,lwd=1)
+  legend("topleft",legend=c("Predicted value","95% confidence limits"),bty="n",lty=c(1,2),col=c("#604A7B","black"),cex=0.6,lwd=1)
 }
 
-tiff("Fig3.tiff", height = 3, width = 3, units = 'in', compression="lzw", res=400)
+tiff("Fig3.tiff", height = 4, width = 4, units = 'in', compression="lzw", res=400)
 par(mai=c(1,1,1,0),mar=c(2,2,2,1),mfcol=c(2,2),oma=c(1,1,0,1),cex=0.5,ylog=T)
 
 bird.plot(dat=t.predict)
