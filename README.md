@@ -5,7 +5,7 @@ mosquito-Rajshahi
 
 This repository contains all files needed to run the analyses in:
 
-> <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Lord, JS, HM Al-amin, S Chakma, S Alam, ES Gurley, and JRC Pulliam. Sampling design influences the observed dominance of Culex tritaeniorhynchus: implications for understanding the Japanese encephalitis virus transmission cycle . *Manuscript in preparation*.
+> <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Lord, JS, HM Al-amin, S Chakma, S Alam, ES Gurley, and JRC Pulliam. Sampling design influences the observed dominance of Culex tritaeniorhynchus: implications for understanding the Japanese encephalitis virus transmission cycle . 
 
 The code is made available under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. You are free to reuse this code provided that you give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. Giving appropriate credit includes citation of the above publication and providing a link to this repository:
 
